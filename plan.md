@@ -2,7 +2,8 @@
 layout: default
 title: Planning Evidence
 ---
-# Gantt Snapshots
+
+## Gantt Snapshots
 
 - [Week 1 plan - 5 Oct 2026](/images/Week1Gantt.png)
 - [Week 2 plan - 12 Oct 2026](/images/Week2Gantt.png)
